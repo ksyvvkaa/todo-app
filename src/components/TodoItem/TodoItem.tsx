@@ -81,6 +81,7 @@ export const TodoItem: React.FC<Props> = React.memo((props) => {
       className={cn('todo', { completed: todo.completed })}
     >
       <label className="todo__status-label">
+        {}
         <input
           data-cy="TodoStatus"
           type="checkbox"
