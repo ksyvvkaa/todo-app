@@ -1,9 +1,20 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+Welcome to the Todo App! This project is a simple todo list application built using React, TypeScript, CSS, and HTML.
 
-### Available Scripts
+## Features
 
-`Deploy` - available to deploy your application to gh-pages
+- Add new tasks to the todo list.
+- Mark tasks as completed.
+- Edit existing tasks.
+- Delete tasks from the todo list.
+- Filter tasks by status (All, Active, Completed).
+- Clear all completed tasks with one click.
+- Load tasks from an external API using the fetch function.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Technologies Used
+
+- React
+- TypeScript
+- CSS, SCSS
+- HTML
