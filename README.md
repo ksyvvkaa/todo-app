@@ -18,3 +18,7 @@ Welcome to the Todo App! This project is a simple todo list application built us
 - TypeScript
 - CSS, SCSS
 - HTML
+
+## Demo
+
+[DEMO LINK](https://ksyvvkaa.github.io/todo-app/)
